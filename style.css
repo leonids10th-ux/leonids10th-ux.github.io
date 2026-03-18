@@ -17,8 +17,8 @@ padding:20px;
 }
 
 .profile{
-width:auto;
-height:auto;
+width:500px;
+height:300px;
 border-radius:50%;
 object-fit:cover;
 margin-bottom:20px;
